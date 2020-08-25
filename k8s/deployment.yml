@@ -18,7 +18,7 @@ spec:
         app: javaapp
     spec:
       containers:
-      - image: chnaveen112/javaapp:35a743d
+      - image: chnaveen112/javaapp:1623f21
         name: javaapp
         ports:
         - containerPort: 8080
